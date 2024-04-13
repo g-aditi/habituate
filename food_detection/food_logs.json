@@ -1,0 +1,62 @@
+[
+    {
+        "image_id": "uploaded_image.jpeg_20240412145034",
+        "image_path": "uploaded_image.jpeg",
+        "caption": "I ordered Chinese takeout today.",
+        "timestamp": "2024-04-12 14:50:34",
+        "objects_detected": [
+            "Kung Pao Chicken",
+            "Beijing Beef",
+            "White Steamed Rice",
+            "Fried Rice"
+        ]
+    },
+    {
+        "image_id": "uploaded_image.jpeg_20240412151521",
+        "image_path": "uploaded_image.jpeg",
+        "caption": "I ordered Chinese takeout today.",
+        "timestamp": "2024-04-12 15:15:21",
+        "objects_detected": [
+            "Kung Pao Chicken",
+            "Beijing Beef",
+            "White Steamed Rice",
+            "Fried Rice"
+        ]
+    },
+    {
+        "image_id": "uploaded_image.jpeg_20240412152724",
+        "image_path": "uploaded_image.jpeg",
+        "caption": "I love Chinese takeout.",
+        "timestamp": "2024-04-12 15:27:24",
+        "objects_detected": [
+            "Kung Pao Chicken",
+            "Beijing Beef",
+            "White Steamed Rice",
+            "Fried Rice"
+        ]
+    },
+    {
+        "image_id": "uploaded_image.jpeg_20240412152845",
+        "image_path": "uploaded_image.jpeg",
+        "caption": "I love Chinese takeout",
+        "timestamp": "2024-04-12 15:28:45",
+        "objects_detected": [
+            "Kung Pao Chicken",
+            "Beijing Beef",
+            "White Steamed Rice",
+            "Fried Rice"
+        ]
+    },
+    {
+        "image_id": "uploaded_image.jpeg_20240412163857",
+        "image_path": "./food_detection/uploaded_image.jpeg",
+        "caption": "chinese takeout",
+        "timestamp": "2024-04-12 16:38:57",
+        "objects_detected": [
+            "Kung Pao Chicken",
+            "Beijing Beef",
+            "White Steamed Rice",
+            "Fried Rice"
+        ]
+    }
+]
